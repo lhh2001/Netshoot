@@ -7,7 +7,7 @@
 
 增加的功能有：
 
-- 每隔一段时间或者被击中后生成的飞碟(飞碟9秒后未被击中会自动消失)，网络同步，击中后有加分和变色效果；
+- 每隔一段时间或者被击中后生成的飞碟，网络同步，击中后有加分和变色效果；
 - 1分钟倒计时，结束后弹出结算UI，根据玩家分数给出胜负结果；
 - 击中角色后取消瞄准，避免玩家压起身，另一个玩家复活就被击杀。
 
@@ -27,7 +27,7 @@
 
 相关链接：
 
-- [Windows平台打包程序](https://share.weiyun.com/mjcXQGDh)
+- [Windows平台打包程序](https://share.weiyun.com/Jf25wGCz)
 
-- [demo视频](https://share.weiyun.com/OeQWDJ7k)
+- [demo视频](https://share.weiyun.com/vgyAqpN4)
 
