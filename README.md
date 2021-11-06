@@ -1,4 +1,6 @@
 # Netshoot
+## 作业2 游戏模式
+
 2021腾讯游戏客户端公开课作业2，基于UE4多人射击游戏案例实现飞碟和结算UI功能。
 
 连接局域网需要开启启用网络发现，如果有虚拟网卡需要禁用。
@@ -31,3 +33,21 @@
 
 - [demo视频](https://share.weiyun.com/vgyAqpN4)
 
+
+
+## 作业3 UMG界面
+
+2021腾讯游戏客户端公开课作业3，在上次作业基础上移植到移动端，完成基本的UI，增加本地积分排行榜。
+
+
+
+平台：
+
+- Android(ETC2)
+
+
+
+相关链接：
+
+- [Android平台打包apk程序](https://share.weiyun.com/1OuTyBWI)
+- [demo视频](https://share.weiyun.com/bxeXjkZi)
